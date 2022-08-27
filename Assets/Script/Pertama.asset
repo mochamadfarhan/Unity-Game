@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3c057e0497b3c54699133e16510e09c, type: 3}
+  m_Name: Pertama
+  m_EditorClassIdentifier: 
+  name: Pertama
+  dialogue:
+  - Hey, Bagaimana apakah semuanya sudah selesai?
+  - Baguslah, Kami berhadap banyak padamu untuk membersihkan musuh disekitar sini
+    setelah ini lekaslah pergi ke kota
+  - Baiklah. Sehabis daerah ini sudah bersih dari musuh sebaiknya kau pergi ke kota
+    untuk membantu para pejuang disana.
+  - Terima kasih, kami mengandalkanmu.
+  playerDialogue:
+  - Semua hampir selesai di tempat ini beberapa musuh sudah berhasil dikalahkan
+  - Saya akan berjuang untuk mempertahankan tempat ini dengan sekuat tenaga saya
+  - Baik selesai dari sini saya akan kekota untuk membantu para pejuang
